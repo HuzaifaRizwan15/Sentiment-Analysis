@@ -1,0 +1,10 @@
+review,sentiment
+"The product quality is amazing",pos
+"I absolutely love this product",pos
+"Excellent value for money",pos
+"The product broke on the first day",neg
+"Terrible quality and poor service",neg
+"I regret buying this item",neg
+"The product arrived today",neu
+"The package contains two items",neu
+"It is an average product",neu
